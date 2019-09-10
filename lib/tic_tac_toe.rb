@@ -1,6 +1,9 @@
 class TicTacToe
   
-  def 
+  def initialize(name)
+    @board = board
+  end
+  
     
   
 end
