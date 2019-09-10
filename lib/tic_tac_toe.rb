@@ -7,5 +7,3 @@ class TicTacToe
   def board
     @board
   end
-
-end
